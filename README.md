@@ -1,5 +1,5 @@
 # Datastructures and Algorithms
-Solving data-structures and algorithms problems in Java and Python. 
+Solving data-structures and algorithms problems in Java and Python.
 
 ## Problems
 Questions picked up from https://www.geeksforgeeks.org, https://www.hackerrank.com.
@@ -32,20 +32,21 @@ every code that is written in this repository. For example, taking an input,
 printing on a new line or printing text along with a data-structure.
 
 ## Stub.java
-This class contains method to generate a random valued array, given the size and 
+This class contains method to generate a random valued array, given the size and
 the max value you want in the array. It uses the built-in Random class to generate
 the values. It also has a method to print the values of a given input array along
 with a text given as formal parameter.
 
 ## Contribution
-Feel free to refactor code, report bugs, submit pull requests or just send a suggestion.
-
+* Feel free to refactor code, report bugs, submit pull requests or just send a suggestion.
+* reformat code and write the data-structures for arrays,Linked lists,trees ,Red Black trees and algorithms related to graphs and send a pull request with a suggestion added to itself.
 ## How to contribute
 Any code that you add needs to have a proper directory name. The directory
 names can be one of the following:
 * name of the data-structure (arrays/)
+
 * name of an algorithm/design paradigm (divide-and-conquer/)
-Do add easy-to-understand comments at the beginning of the code to understand the 
+Do add easy-to-understand comments at the beginning of the code to understand the
 question, input and output of the program.
 
 ## To-dos
